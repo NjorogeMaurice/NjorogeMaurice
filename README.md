@@ -4,6 +4,8 @@ I am Maurice Njoroge fullstack web developer
 
 Currently a student at Jomo Kenyatta University of Agriculture and Technology.
 
+
+
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">
 Worked with frontend web framework
 <ul>
