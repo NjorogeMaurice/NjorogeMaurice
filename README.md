@@ -13,6 +13,9 @@ Currently a student at Jomo Kenyatta University of Agriculture and Technology.
 ### Connect with me:
 #### Email: njoroge0330@gmail.com
 
+### Github stats:
+![](https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
