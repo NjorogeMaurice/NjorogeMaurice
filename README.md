@@ -12,14 +12,6 @@ Worked with frontend web framework
   <li>React js</li>
   <li>Angular js</li>
 </ul>
-
-Worked with backend web frameworks
-<ul>
-  <li>Django</li>
-  <li>Node js</li>
-  <li>PHP</li>
-</ul>
-
 <!--
 **NjorogeMaurice/NjorogeMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
