@@ -1,22 +1,10 @@
-### About Me:
+### My Bio:
 
 I am Maurice Njoroge fullstack web developer
 
 Currently a student at Jomo Kenyatta University of Agriculture and Technology.
 
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">
-Worked with frontend web framework
-<ul>
-  <li>React js</li>
-  <li>Angular js</li>
-</ul>
 
-Worked with backend web frameworks
-<ul>
-  <li>Django</li>
-  <li>Node js</li>
-  <li>PHP</li>
-</ul>
 
 <!--
 **NjorogeMaurice/NjorogeMaurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
