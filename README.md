@@ -1,6 +1,8 @@
 ### About Me:
 
-I am Maurice Njoroge fullstack web developer
+I am Maurice Njoroge 
+
+A fullstack web developer
 
 Currently a student at Jomo Kenyatta University of Agriculture and Technology.
 
