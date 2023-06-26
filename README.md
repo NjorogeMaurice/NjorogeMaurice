@@ -16,7 +16,7 @@ Currently a student at Jomo Kenyatta University of Agriculture and Technology.
 ### Github stats:
 ![](https://github-contributor-stats.vercel.app/api?username=NjorogeMaurice&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NjorogeMaurice&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> 
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjorogeMaurice&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
 
 
 
