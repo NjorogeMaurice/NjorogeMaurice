@@ -8,15 +8,20 @@
 
 🤖 As an AI researcher and enthusiast, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
 
-💻 My journey in the world of technology is a continuous learning adventure. Whether it's building sleek web applications, crafting beautiful cross-platform mobile experiences with Flutter and Kotlin, or diving into the world of Android development with Java, I'm always eager to expand my skills and embrace new challenges.
+💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
 📊 Here's a glimpse of what I bring to the table:
 
 💡 Strong proficiency in Java, Flutter, and Kotlin
+
 🌐 Experience in web development, creating responsive and dynamic applications
+
 📱 Expertise in mobile app development, building sleek and performant cross-platform experiences
+
 📊 Passion for data science, with skills in data analysis, visualization, and machine learning
+
 🤝 Collaborative mindset, thriving in team environments and contributing to collective success
+
 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out. Together, we can turn ideas into reality and push the boundaries of technology.
 
 
@@ -33,11 +38,7 @@ email at **njoroge0330@gmail.com**
 
 or 
 
-connect with me on LinkedIn ![Here](https://www.linkedin.com/in/maurice-njoroge-0b036023a/.)
-
-
-Happy coding! 🚀
-#### Email: njoroge0330@gmail.com
+connect with me on LinkedIn **https://www.linkedin.com/in/maurice-njoroge-0b036023a/**
 
 ### Github stats:
 ![](https://github-contributor-stats.vercel.app/api?username=NjorogeMaurice&limit=5&theme=dark&combine_all_yearly_contributions=true)
