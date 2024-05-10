@@ -5,22 +5,19 @@ I'm **Maurice Njoroge**, a passionate software developer and data enthusiast.
 ### About Me
 
 - 🚀 I specialize in web and app development, creating seamless user experiences that captivate and engage. I thrive on crafting elegant solutions to complex problems. With a strong foundation in Java, Flutter, and Kotlin, 
-
-🌐 When I'm not busy coding, you'll find me delving into the depths of data science, extracting insights, and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and technology, and I'm always seeking new ways to leverage data-driven approaches to drive innovation.
-
-🤖 As an AI researcher and enthusiast, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
-
-💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
+- 🌐 When I'm not busy coding, you'll find me delving into the depths of data science, extracting insights, and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and technology, and I'm always seeking new ways to leverage data-driven approaches to drive innovation.
+- 🤖 As an AI researcher and enthusiast, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
+- 💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
 ### 📊 Here's a glimpse of what I bring to the table:
 
-*💡 Strong proficiency in Java, Flutter, and Kotlin
-*🌐 Experience in web development, creating responsive and dynamic applications
-*📱 Expertise in mobile app development, building sleek and performant cross-platform experiences
-*📊 Passion for data science, with skills in data analysis, visualization, and machine learning
-*🤖 Dedication to AI research and engineering, with a focus on developing innovative AI solutions
-*🤝 Collaborative mindset, thriving in team environments and contributing to collective success
-*🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out. Together, we can turn ideas into reality and push the boundaries of technology.
+* 💡 Strong proficiency in Java, Flutter, and Kotlin
+* 🌐 Experience in web development, creating responsive and dynamic applications
+* 📱 Expertise in mobile app development, building sleek and performant cross-platform experiences
+* 📊 Passion for data science, with skills in data analysis, visualization, and machine learning
+* 🤖 Dedication to AI research and engineering, with a focus on developing innovative AI solutions
+* 🤝 Collaborative mindset, thriving in team environments and contributing to collective success
+* 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out. Together, we can turn ideas into reality and push the boundaries of technology.
 
 
 ### Tech Stack:
