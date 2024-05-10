@@ -1,6 +1,8 @@
 👋 Hello World!
    
-   I'm Maurice Njoroge, a passionate software developer and data enthusiast.
+I'm **Maurice Njoroge**, a passionate software developer and data enthusiast.
+
+### About Me
 
 🚀 I specialize in web and app development, creating seamless user experiences that captivate and engage. I thrive on crafting elegant solutions to complex problems. With a strong foundation in Java, Flutter, and Kotlin, 
 
@@ -10,7 +12,7 @@
 
 💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
-📊 Here's a glimpse of what I bring to the table:
+### 📊 Here's a glimpse of what I bring to the table:
 
 💡 Strong proficiency in Java, Flutter, and Kotlin
 
