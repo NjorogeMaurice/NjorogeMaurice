@@ -40,7 +40,7 @@ connect with me on LinkedIn **https://www.linkedin.com/in/maurice-njoroge-0b0360
 
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjorogeMaurice&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
 
-![](https://komarev.com/ghpvc/?username=NjorogeMaurice)
+
 
 
 
