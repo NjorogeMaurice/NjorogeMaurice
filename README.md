@@ -28,6 +28,8 @@ I'm **Maurice Njoroge**, a passionate software developer and data enthusiast.
 ![Android](https://img.shields.io/badge/android-green.svg?style=for-the-badge&logo=android&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%230db7ed.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Connect with me:
+I am open to project collaborations.
+
 📫 You can reach me via 
 email at **njoroge0330@gmail.com** 
 
