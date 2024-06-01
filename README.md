@@ -1,23 +1,23 @@
 👋 Hello World!
    
-I'm **Maurice Njoroge**, a passionate software developer and data enthusiast.
+I'm **Maurice Njoroge**, an AI engineer.
 
 ### About Me
 
-- 🚀 I specialize in web and app development, creating seamless user experiences that captivate and engage. I thrive on crafting elegant solutions to complex problems. With a strong foundation in Java, Flutter, and Kotlin, 
-- 🌐 When I'm not busy coding, you'll find me delving into the depths of data science, extracting insights, and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and technology, and I'm always seeking new ways to leverage data-driven approaches to drive innovation.
-- 🤖 As an AI researcher and enthusiast, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
-- 💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
+- 🚀 I specialize in artificial intelligence engineering, creating sophisticated algorithms and cutting-edge AI solutions that push the boundaries of technology. I thrive on harnessing the power of AI to solve real-world problems and drive positive change.
+- 🤖 As an AI engineer, I'm dedicated to exploring the depths of machine learning and developing innovative solutions. My passion lies in advancing the field of AI to create impactful and transformative technologies.
+- 🌐 I delve into data science, extracting insights and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and AI, constantly seeking new ways to leverage data-driven approaches to drive innovation.
+- 💻 My journey in the world of artificial intelligence is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
 ### 📊 Here's a glimpse of what I bring to the table:
 
-* 💡 Strong proficiency in Java, Flutter, and Kotlin
-* 🌐 Experience in web development, creating responsive and dynamic applications
-* 📱 Expertise in mobile app development, building sleek and performant cross-platform experiences
-* 📊 Passion for data science, with skills in data analysis, visualization, and machine learning
-* 🤖 Dedication to AI research and engineering, with a focus on developing innovative AI solutions
-* 🤝 Collaborative mindset, thriving in team environments and contributing to collective success
-* 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out. Together, we can turn ideas into reality and push the boundaries of technology.
+
+* 🌐 Experience in AI engineering, developing advanced algorithms and intelligent systems.
+* 📱 Expertise in machine learning, creating sophisticated models and optimizing performance across various platforms.
+* 📊 Passion for data science, with skills in data analysis, visualization, and extracting actionable insights from complex datasets.
+* 🤖 Dedication to AI research and engineering, focusing on innovative solutions to drive technological advancement.
+* 🤝 Collaborative mindset, thriving in team environments, and contributing to collective success.
+* 🔗 Let's connect and collaborate on groundbreaking projects! Feel free to explore my work and reach out. Together, we can turn ideas into reality and push the boundaries of artificial intelligence.
 
 
 ### Tech Stack:
@@ -26,7 +26,6 @@ I'm **Maurice Njoroge**, a passionate software developer and data enthusiast.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Springboot](https://img.shields.io/badge/springboot-%23009639.svg?style=for-the-badge&logo=spring&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=%23009639) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Python](https://img.shields.io/badge/postgresql-3670A0?style=for-the-badge&logo=postgresql&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	
 ![Android](https://img.shields.io/badge/android-green.svg?style=for-the-badge&logo=android&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%230db7ed.svg?style=for-the-badge&logo=angular&logoColor=white)  ![Vue](https://img.shields.io/badge/vue-%230db7ed.svg?style=for-the-badge&logo=vue&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%230db7ed.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 
 ### Connect with me:
