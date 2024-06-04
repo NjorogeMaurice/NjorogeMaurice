@@ -1,6 +1,6 @@
 👋 Hello World!
    
-I'm **Maurice Njoroge**, an AI engineer.
+I'm **Maurice Njoroge**.
 
 ### About Me
 
