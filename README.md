@@ -1,23 +1,21 @@
 👋 Hello World!
    
-I'm **Maurice Njoroge**.
+I'm **Maurice Njoroge**, a pasionate software engineer with ML expertise
 
 ### About Me
 
-- 🚀 I specialize in artificial intelligence engineering, creating sophisticated algorithms and cutting-edge AI solutions that push the boundaries of technology. I thrive on harnessing the power of AI to solve real-world problems and drive positive change.
-- 🤖 As an AI engineer, I'm dedicated to exploring the depths of machine learning and developing innovative solutions. My passion lies in advancing the field of AI to create impactful and transformative technologies.
-- 🌐 I delve into data science, extracting insights and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and AI, constantly seeking new ways to leverage data-driven approaches to drive innovation.
-- 💻 My journey in the world of artificial intelligence is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
+- 🚀 I specialize in web and app development, creating seamless user experiences that captivate and engage. I thrive on building solutions to complex problems.
+- - 🤖 As an AI developer, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
+- 🌐 I delve into the depths of data science, extracting insights, and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and technology, and I'm always seeking new ways to leverage data-driven approaches to drive innovation.
+- 💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
 ### 📊 Here's a glimpse of what I bring to the table:
 
-
-* 🌐 Experience in AI engineering, developing advanced algorithms and intelligent systems.
-* 📱 Expertise in machine learning, creating sophisticated models and optimizing performance across various platforms.
-* 📊 Passion for data science, with skills in data analysis, visualization, and extracting actionable insights from complex datasets.
-* 🤖 Dedication to AI research and engineering, focusing on innovative solutions to drive technological advancement.
-* 🤝 Collaborative mindset, thriving in team environments, and contributing to collective success.
-* 🔗 Let's connect and collaborate on groundbreaking projects! Feel free to explore my work and reach out. Together, we can turn ideas into reality and push the boundaries of artificial intelligence.
+* 📱 Expertise in mobile app and web development, building sleek and performant cross-platform experiences
+* 📊 Passion for data science, with skills in data analysis, visualization, and machine learning
+* 🤖 Dedication to AI research and engineering, with a focus on developing innovative AI solutions
+* 🤝 Collaborative mindset, thriving in team environments, and contributing to collective success
+* 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out. Together, we can turn ideas into reality and push the boundaries of technology.
 
 
 ### Tech Stack:
