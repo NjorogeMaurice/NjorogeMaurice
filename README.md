@@ -5,7 +5,7 @@ I'm **Maurice Njoroge**, a passionate software engineer with ML expertise
 ### About Me
 
 - 🚀 I specialize in web and app development, creating seamless user experiences that captivate and engage. I thrive on building solutions to complex problems.
-- 🤖 As an AI developer, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
+- 🤖 As an AI enthusiast, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning. From developing sophisticated algorithms to implementing cutting-edge AI solutions, I'm passionate about harnessing the power of AI to solve real-world problems and drive positive change.
 - 🌐 I delve into the depths of data science, extracting insights, and unraveling patterns from vast datasets. I'm fascinated by the intersection of data and technology, and I'm always seeking new ways to leverage data-driven approaches to drive innovation.
 - 💻 My journey in the world of technology is a continuous learning adventure. I'm always eager to expand my skills and embrace new challenges.
 
