@@ -1,6 +1,6 @@
 👋 Hello World!
    
-I'm **Maurice Njoroge**, a passionate software engineer with ML expertise
+I'm **Maurice Njoroge**
 
 # 💫 About Me:
 🚀 I am working on expanding my expertise in DevOps, integrating advanced AI solutions into continuous integration and deployment pipelines, and optimizing data science workflows for enhanced performance and scalability.
