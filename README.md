@@ -26,7 +26,7 @@ I am working on expanding my expertise in DevOps, integrating advanced AI soluti
 [![](https://visitcount.itsvg.in/api?id=NjorogeMaurice&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Maurice Njoroge) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/njoroge033s) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
