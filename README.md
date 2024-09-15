@@ -3,7 +3,15 @@
 I'm **Maurice Njoroge**, a passionate software engineer with ML expertise
 
 # 💫 About Me:
-I am working on expanding my expertise in DevOps, integrating advanced AI solutions into continuous integration and deployment pipelines, and optimizing data science workflows for enhanced performance and scalability.<br><br>I am looking to collaborate on projects that involve innovative uses of AI in DevOps, particularly those that leverage machine learning for automated system monitoring and predictive maintenance, or that explore cutting-edge techniques in data engineering.<br><br>I am looking for help with mastering specific DevOps tools and practices, such as container orchestration with Kubernetes, implementing robust CI/CD pipelines, and effectively using infrastructure-as-code frameworks like Terraform.<br><br>Ask me about integrating AI with DevOps practices, the latest trends in data science, or how to streamline software development processes for better efficiency and reliability.<br><br>Fun fact: I once built a machine-learning model to predict the best time to water my plants based on weather data, which resulted in a healthier garden and a lot of fun experimentation with sensor data!
+🚀 I am working on expanding my expertise in DevOps, integrating advanced AI solutions into continuous integration and deployment pipelines, and optimizing data science workflows for enhanced performance and scalability.
+
+🤝 I am looking to collaborate on projects that involve innovative uses of AI in DevOps, particularly those that leverage machine learning for automated system monitoring and predictive maintenance, or that explore cutting-edge techniques in data engineering.
+
+🛠️ I am looking for help with mastering specific DevOps tools and practices, such as container orchestration with Kubernetes, implementing robust CI/CD pipelines, and effectively using infrastructure-as-code frameworks like Terraform.
+
+💡 Ask me about integrating AI with DevOps practices, the latest trends in data science, or how to streamline software development processes for better efficiency and reliability.
+
+🌱 Fun fact: I once built a machine-learning model to predict the best time to water my plants based on weather data, which resulted in a healthier garden and a lot of fun experimentation with sensor data!
 
 
 ## 🌐 Socials:
