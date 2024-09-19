@@ -3,13 +3,13 @@
 I'm **Maurice Njoroge**
 
 # 💫 About Me:
-🚀 I am working on expanding my expertise in DevOps, integrating advanced AI solutions into continuous integration and deployment pipelines, and optimizing data science workflows for enhanced performance and scalability.
+🚀 I am working on expanding my expertise in DevOps and optimizing data science workflows for enhanced performance and scalability.
 
-🤝 I am looking to collaborate on projects that involve innovative uses of AI in DevOps, particularly those that leverage machine learning for automated system monitoring and predictive maintenance, or that explore cutting-edge techniques in data engineering.
+🤝 I am looking to collaborate on projects that involve deployment of containers, or that explore cutting-edge techniques in data engineering.
 
 🛠️ I am looking for help with mastering specific DevOps tools and practices, such as container orchestration with Kubernetes, implementing robust CI/CD pipelines, and effectively using infrastructure-as-code frameworks like Terraform.
 
-💡 Ask me about integrating AI with DevOps practices, the latest trends in data science, or how to streamline software development processes for better efficiency and reliability.
+💡 Ask me about DevOps practices, the latest trends in data science, or how to streamline software development processes for better efficiency and reliability.
 
 🌱 Fun Fact: In DevOps, the term "continuous" appears frequently—continuous integration, continuous delivery, continuous deployment—because the goal is to keep improving software without ever stopping! It's like running a race where the finish line keeps moving forward, but that's what makes the process so agile.
 
