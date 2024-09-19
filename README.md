@@ -11,7 +11,7 @@ I'm **Maurice Njoroge**
 
 💡 Ask me about integrating AI with DevOps practices, the latest trends in data science, or how to streamline software development processes for better efficiency and reliability.
 
-🌱 Fun fact: I once built a machine-learning model to predict the best time to water my plants based on weather data, which resulted in a healthier garden and a lot of fun experimentation with sensor data!
+🌱 Fun Fact: In DevOps, the term "continuous" appears frequently—continuous integration, continuous delivery, continuous deployment—because the goal is to keep improving software without ever stopping! It's like running a race where the finish line keeps moving forward, but that's what makes the process so agile.
 
 
 ## 🌐 Socials:
