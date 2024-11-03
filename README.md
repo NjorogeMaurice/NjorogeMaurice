@@ -5,7 +5,7 @@ I'm **Maurice Njoroge**
 # 💫 About Me:
 🚀 I am working on expanding my expertise in DevOps and optimizing data science workflows for enhanced performance and scalability.
 
-🤝 I am looking to collaborate on projects that involve deployment of containers, or that explore cutting-edge techniques in data engineering.
+🤝 I am looking to collaborate on projects that involve software development, deployment of containers, or that explore techniques in data science.
 
 🛠️ I am looking for help with mastering specific DevOps tools and practices, such as container orchestration with Kubernetes, implementing robust CI/CD pipelines, and effectively using infrastructure-as-code frameworks like Terraform.
 
