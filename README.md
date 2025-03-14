@@ -2,7 +2,7 @@
    
 I'm **Maurice Njoroge**
 
-# 💫 About Me:
+## 💫 About Me:
 🚀 Passionate about DevOps, data science, and AI—specializing in developing and deploying AI models to software applications. Always excited to collaborate on innovative projects involving software development, containerization, and cutting-edge AI solutions
 
 
