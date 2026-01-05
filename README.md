@@ -3,7 +3,9 @@
 I'm **Maurice Njoroge**
 
 ## 💫 About Me:
-🚀 Passionate about DevOps, data science, and AI—specializing in developing and deploying AI models to software applications. Always excited to collaborate on innovative projects involving software development, containerization, and cutting-edge AI solutions
+🚀 I work across the full data lifecycle, from data ingestion and modeling to building reliable data pipelines and decision-support systems, with a strong emphasis on data quality, system reliability, and risk awareness.
+
+Currently, I’m deepening my work in financial data systems, using them as a proving ground to understand how AI, data, and uncertainty interact in high-stakes environments.
 
 
 ## 🌐 Socials:
